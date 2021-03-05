@@ -11,6 +11,8 @@ scikit-learn = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+google = "*"
+mlxtend = "*"
 
 [dev-packages]
 
