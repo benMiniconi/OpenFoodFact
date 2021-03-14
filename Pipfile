@@ -15,6 +15,7 @@ google = "*"
 mlxtend = "*"
 streamlit = "*"
 plotly = "*"
+swat = "*"
 
 [dev-packages]
 
