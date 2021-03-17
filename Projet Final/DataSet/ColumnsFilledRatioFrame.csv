@@ -18,7 +18,7 @@ additives_n,37,float64,73.715
 ingredients_from_palm_oil_n,5,float64,73.716
 ingredients_that_may_be_from_palm_oil_n,7,float64,73.715
 nutriscore_score,56,float64,100.0
-nutriscore_grade,5,object,100.0
+nutriscore_grade,6,object,100.0
 pnns_groups_1,15,object,99.93
 pnns_groups_2,41,object,100.0
 states,1707,object,100.0
