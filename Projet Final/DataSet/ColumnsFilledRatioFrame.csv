@@ -39,7 +39,6 @@ ingredients_from_palm_oil_n,5,float64,73.716
 ingredients_that_may_be_from_palm_oil_n,7,float64,73.715
 nutriscore_score,56,float64,100.0
 nutriscore_grade,6,object,100.0
-nova_group,4,float64,69.611
 pnns_groups_1,15,object,99.93
 pnns_groups_2,41,object,100.0
 states,1707,object,100.0
@@ -50,8 +49,6 @@ main_category,17876,object,100.0
 main_category_en,17874,object,99.999
 image_url,324720,object,57.945
 image_small_url,324720,object,57.945
-image_ingredients_url,253320,object,45.203
-image_ingredients_small_url,253319,object,45.203
 image_nutrition_url,246825,object,44.044
 image_nutrition_small_url,246825,object,44.044
 energy-kj_100g,4046,float64,13.1
